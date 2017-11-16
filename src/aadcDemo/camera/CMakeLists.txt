@@ -1,0 +1,4 @@
+add_subdirectory(AADC_Realsense)
+add_subdirectory(AADC_Basler)
+add_subdirectory(AADC_FisheyeUndistortion)
+add_subdirectory(AADC_CameraCalibration)
